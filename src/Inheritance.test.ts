@@ -1,3 +1,4 @@
+import { isJSDocPropertyLikeTag } from 'typescript';
 import { Student, Person } from './Inheritance';
 
 const testData = {
